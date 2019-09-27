@@ -1,0 +1,5 @@
+commit fb345dd0a238c849e1bf7372defe7e06029822c4
+Author: Christopher Joel <cdata@google.com>
+Date:   Thu Sep 26 17:08:32 2019 -0700
+
+    Properly detect iOS 13 Safari on iPad (#775)
